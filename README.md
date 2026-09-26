@@ -121,14 +121,6 @@ GROUP BY address_state;
 
 ---
 
-## 📬 Contact
-
-For any queries or collaborations:
-
-**Satabdhi Priyadarsani**  
-[LinkedIn](https://www.linkedin.com/in/satabdhi-priyadarsani-98093226b/) • [Email](satabdhi73@gmail.com) • [GitHub](https://github.com/satabdhi-dev)
-
----
 
 ## 📄 License
 
